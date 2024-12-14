@@ -19,11 +19,11 @@ my_fastapi_app/
 ```
 
 #### Requirements
-Python 3.8+
-FastAPI
-Uvicorn (ASGI server)
-MongoDB (running locally or via Docker)
-pymongo (MongoDB client)
+1. Python 3.8+
+2. FastAPI
+3. Uvicorn (ASGI server)
+4. MongoDB (running locally or via Docker)
+5. pymongo (MongoDB client)
 
 ### With Docker Compose
 
